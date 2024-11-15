@@ -2,7 +2,7 @@
 
 ###
 
-<img align="center" height="150" src="https://pin.it/3dvrdhs4P"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/8e/25/11/8e251176c87aaf32f78841d32a3fca2e.gif"  />
 
 ###
 
@@ -20,7 +20,13 @@
 ###
 
    instragram: https://www.instagram.com/asukaninha/
+
+###
+
    twitter: https://x.com/asukaninha
+   
+###
+
    linkedin: https://www.linkedin.com/in/aninha-moraes-61a544338/
    
 ###
