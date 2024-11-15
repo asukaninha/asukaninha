@@ -30,9 +30,3 @@
    linkedin: https://www.linkedin.com/in/aninha-moraes-61a544338/
    
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
